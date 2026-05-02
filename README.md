@@ -26,6 +26,7 @@ This project demonstrates several key programming concepts:
 *   **Event Listeners:** Capturing user clicks and keyboard presses.
 *   **Asynchronous Logic:** Using timeouts to create delays between the game's sequence and the user's turn.
 
+
 ## 📂 Project Structure
 ```text
 .
@@ -33,3 +34,16 @@ This project demonstrates several key programming concepts:
 ├── simon.css       # Custom styling and animations
 ├── simon.js          # The core JavaScript logic
 └── resources/          # Audio files for each button (Green, Red, Yellow, Blue, Wrong)
+
+Clone the repository:
+
+Bash
+git clone [https://github.com/your-username/simon-game.git](https://github.com/your-username/simon-game.git)
+Open index.html in your browser.
+
+👤 Author
+Your Name - codebusterkarki
+
+📜 License
+This project is open source and available under the MIT License.
+
