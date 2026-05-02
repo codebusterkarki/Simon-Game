@@ -1,6 +1,9 @@
 
  # Simon Game 🎮
 
+ <img width="1847" height="854" alt="image" src="https://github.com/user-attachments/assets/3ee5cf0d-889d-4a57-bd48-c717ef0a1530" />
+
+
 A web-based version of the classic electronic memory game. The game creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex.
 
 
